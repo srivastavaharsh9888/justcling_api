@@ -1,1 +1,1 @@
-web: gunicorn justcling_project.wsgi --log-file -
+web: gunicorn justcling_api.wsgi --log-file -
