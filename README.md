@@ -12,5 +12,10 @@ If you want to update the gender of a user -:(its a post request)
 and in params pass gender=male, female or other
 
 
+Things used to make the api-:
+
+Django restframework
+Database-:Postgres
+
 For internship in justcling.
 
