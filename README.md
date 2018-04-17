@@ -16,6 +16,3 @@ Things used to make the api-:
 
 Django restframework
 Database-:Postgres
-
-For internship in justcling.
-
